@@ -5,11 +5,13 @@
   "description": "A runtime console built to help invoking commands during gameplay",
   "unity": "2022.3",
   "samples":
-  {
-    "displayName": "UI Prefabs",
-    "description": "Plug And Play basic UI prefab to add to your scenes",
-    "path": "Samples~/SamplesUIPrefabs"
-  },
+  [
+    {
+      "displayName": "UI Prefabs",
+      "description": "Plug And Play basic UI prefab to add to your scenes",
+      "path": "Samples~/SamplesUIPrefabs"
+    }
+  ],
   "dependencies": {
     "com.unity.textmeshpro": "3.0.8"
   },
