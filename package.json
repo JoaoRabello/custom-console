@@ -4,6 +4,9 @@
   "displayName": "Custom Console",
   "description": "A runtime console built to help invoking commands during gameplay",
   "unity": "2022.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "^0.0.1-security"
+  },
   "author": 
   {
     "name": "Hex Frog Games",
