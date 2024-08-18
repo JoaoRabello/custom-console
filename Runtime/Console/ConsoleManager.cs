@@ -9,8 +9,6 @@ namespace HexFrogGames.Tools.Console
 
         [SerializeField] private ConsoleActions _consoleActions;
         [SerializeField] private ConsoleRenderer _consoleRenderer;
-        [SerializeField] private GameObject _testFrog;
-        [SerializeField] private Transform _fooPosition;
 
         private void Awake()
         {
