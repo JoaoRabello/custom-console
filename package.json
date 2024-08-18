@@ -1,6 +1,6 @@
 {
   "name": "com.hex.custom-console",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "displayName": "Custom Console",
   "description": "A runtime console built to help invoking commands during gameplay",
   "unity": "2022.3",
